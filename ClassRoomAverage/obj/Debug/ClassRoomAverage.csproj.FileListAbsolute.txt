@@ -1,0 +1,8 @@
+T:\ClassRoomAverage\bin\Debug\ClassRoomAverage.exe.config
+T:\ClassRoomAverage\bin\Debug\ClassRoomAverage.exe
+T:\ClassRoomAverage\bin\Debug\ClassRoomAverage.pdb
+T:\ClassRoomAverage\obj\Debug\ClassRoomAverage.csproj.AssemblyReference.cache
+T:\ClassRoomAverage\obj\Debug\ClassRoomAverage.csproj.SuggestedBindingRedirects.cache
+T:\ClassRoomAverage\obj\Debug\ClassRoomAverage.csproj.CoreCompileInputs.cache
+T:\ClassRoomAverage\obj\Debug\ClassRoomAverage.exe
+T:\ClassRoomAverage\obj\Debug\ClassRoomAverage.pdb
